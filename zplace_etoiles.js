@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         zevent-place-overlay
+// @name         etoiles-zplace-overlay
 // @namespace    http://tampermonkey.net/
 // @license      MIT
 // @version      1.8

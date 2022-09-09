@@ -58,7 +58,7 @@
      */
     //safeModeDisableGetJSON = true;
     //safeModeDisableUI = true;
-    loadOverlay("https://media.discordapp.net/attachments/881548510875512842/1017848127174221975/unknown.png" );
+    loadOverlay("https://raw.githubusercontent.com/Haykira/etoiles_zplace/main/overlay.png" );
     //loadOverlay("https://raw.githubusercontent.com/ludolpif/overlay-zevent-place/main/examples/demo-overlay2.png" );
     //loadOverlay("https://somewebsite.com/someoverlay.png","A short title" );
     /*
